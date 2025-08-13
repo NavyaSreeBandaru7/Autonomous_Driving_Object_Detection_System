@@ -2,6 +2,7 @@
 🚗 Autonomous Driving Object Detection System
 
 A comprehensive real-time object detection system specifically designed for autonomous driving scenarios. This system uses state-of-the-art YOLOv5 architecture to detect and classify objects crucial for safe autonomous navigation.
+
 🎯 Project Goals
 This project aims to create a robust, real-time object detection system that can:
 
